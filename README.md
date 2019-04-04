@@ -10,8 +10,8 @@ This is very simple react native stater
 - redux-thunk
 
 ## Usage
-Clone this project copy and paste `app/` folder into the root of your react native project
-Change the `index.js` import path
+- Clone this project copy and paste `app/` folder into the root of your react native project
+- Change the `index.js` import path
 
 ```javascript
 import {AppRegistry} from 'react-native';
@@ -26,6 +26,6 @@ AppRegistry.registerComponent(appName, () => App);
  - Able to change them `// dark or light`
 
 ## TODO
-[ ] Add change theme documentation
-[ ] Add common components
+- [ ] Add change theme documentation
+- [ ] Add common components
 
